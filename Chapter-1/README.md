@@ -14,7 +14,6 @@
 
    5) Blocks have certain storage capacities and when filled are closed and linked to previously filled block forming a chain of data is known as blockchain
     
-    _____________       
-   |             |
-   | First Block | ---- 
-   |_____________| 
+   * As new data comes in, it is entered into a fresh block. Once the block is filled with data, it is chained onto the previous block, which makes the data chained together in chronological order.
+   
+        
