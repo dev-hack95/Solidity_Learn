@@ -27,3 +27,11 @@
    1) Business-focused consortium blockchain: Blockchain for particular business issues. The participants leverage each others’ strengths and pull their resources together, including finance, marketing strategy, research, and management, to achieve their individual and joint commercial goals.
 
    2) Technology-focused consortium blockchain: Technology-inclined companies can share resources and information on an efficient and reusable blockchain platform that focuses on a technicality.
+
+   3) Dual-focused consortium blockchain: Dual-focused networks provides a platform that offers both technology and business solutions
+
+   * Features Of Consortium Blockchain
+     1) Partially Decentralized
+     2) Privacy of Data
+     3) More Controllable
+     4) Faster Trnasction Speed
