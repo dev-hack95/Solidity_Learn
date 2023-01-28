@@ -22,3 +22,8 @@
    2) Public blockchain- Home of significant crypto assets like Bitcoin and Ethereum, anyone can access the public blockchain because it is more open and decentralized, needs a large amount of processing power to keep the network efficient, pow
 
    3) Hybrid Blockchain: Similar to a private blockchain, this network is an open-source platform but controlled by a central entity. However, unlike other networks, there are no gatekeepers. Therefore, you can access the blockchain and make transactions without passing through the KYC requirements.
+
+## Consortium Blockchain
+   1) Business-focused consortium blockchain: Blockchain for particular business issues. The participants leverage each others’ strengths and pull their resources together, including finance, marketing strategy, research, and management, to achieve their individual and joint commercial goals.
+
+   2) Technology-focused consortium blockchain: Technology-inclined companies can share resources and information on an efficient and reusable blockchain platform that focuses on a technicality.
